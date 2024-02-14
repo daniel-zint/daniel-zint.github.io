@@ -1,5 +1,5 @@
 ---
-title: "Intro to Computer Science (Spring 2023)"
+title: "Intro to Computer Science"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-Intro-to-Computer-Science
@@ -8,4 +8,4 @@ date: 2023-01-15
 location: "New York, USA"
 ---
 
-\[[course page](https://nyu-daniel-zint.github.io/intro-to-computer-science/)\]
+\[[course page](https://nyu-daniel-zint.github.io/intro-to-computer-science-2024-spring/)\]

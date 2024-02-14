@@ -11,6 +11,7 @@ excerpt: '
 
 \[[publication](https://diglib.eg.org/handle/10.1111/cgf14906)\]
 \[[pdf](https://inria.hal.science/hal-04135266/document)\]
+\[[presentation](/files/Daniel Zint - Feature-Preserving Offset Mesh Generation from Topology-Adapted Octrees.pptx)\]
 \[code (coming soon)\]
 '
 date: 2023-07-04
