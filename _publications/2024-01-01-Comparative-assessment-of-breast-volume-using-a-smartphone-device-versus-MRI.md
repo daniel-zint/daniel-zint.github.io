@@ -1,5 +1,5 @@
 ---
-title: "Topological Offsets"
+title: "Comparative assessment of breast volume using a smartphone device versus MRI"
 collection: publications
 permalink: /publication/2024-01-01-Comparative-assessment-of-breast-volume-using-a-smartphone-device-versus-MRI
 date: 2024-01-01
