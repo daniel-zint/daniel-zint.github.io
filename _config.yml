@@ -80,12 +80,12 @@ analytics:
 author:
   name: "Dr.-Ing. Daniel Zint"
   avatar: "DanielZint.jpg"
-  bio: "Assistant Professor / Faculty Fellow at NYU"
-  location: "60 5th Ave, New York, NY 10011"
+  bio: "Postdoctoral Researcher at TU Berlin"
+  location: "Marchstraße 23, 10587 Berlin"
   employer:
   pubmed: #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar: "https://scholar.google.com/citations?user=yGASNCMAAAAJ&hl=de&oi=ao"
-  email: daniel.zint@nyu.edu
+  email: daniel.zint@tu-berlin
   researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
   uri:
   bitbucket:
@@ -247,7 +247,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Berlin # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Plugins
 plugins:
